@@ -1,8 +1,12 @@
 # db-pico
 db-pico | a cartridge for pico-8
 
-http://pico-8.com
+For full info and to see this in your browser, visit this post:
+http://www.lexaloffle.com/bbs/?tid=2101
 
+Be sure to check out http://pico-8.com, it's really cool.
+
+---
 
 Here's the original excellent image from DawnBringer ([the original thread](http://www.pixeljoint.com/forum/forum_posts.asp?TID=12795))
 
@@ -19,9 +23,3 @@ Here's what it looked like with the pico-8 palette:
 Here's what this cartridge shows and contains:
 
 ![Cartridge Preview](images/db-pico-pre.png)
-
----
-
-For full info and to see this in your browser, visit this post:
-
-http://www.lexaloffle.com/bbs/?tid=2101
