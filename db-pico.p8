@@ -2,11 +2,11 @@ pico-8 cartridge // http://www.pico-8.com
 version 4
 __lua__
 -- db-pico-1.0
--- by @___discovery
+-- by @ruby0x1
 
 -- Modified from the original to use pico-8 palette
 -- http://www.pixeljoint.com/forum/forum_posts.asp?TID=12795
--- by http://underscorediscovery.com
+-- by http://underscorediscovery.ca
 
 -- NOTE that there is 14 index in pico that is unused in the palette (bright pink)
 -- this means that two similar-ish gray values on DawnBringers Palette (3 and 7)
